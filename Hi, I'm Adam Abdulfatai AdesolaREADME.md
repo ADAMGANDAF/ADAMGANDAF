@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Adam Abdulfatai Adesola, a student of Duromedia Accademy
+- 👀 I’m interested in learning more about Frontend and Backend Development
+- 🌱 I’m currently a Frontend Developer with the use of; Html, Css and Javascript
+- 💞️ I’m looking to collaborate on different project in accordance with what am learning.
